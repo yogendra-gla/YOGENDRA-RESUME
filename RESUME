@@ -1,0 +1,140 @@
+{
+  "name": "Yogendra Singh",
+  "contact": {
+    "location": "Shikohabad, Uttar Pradesh, 283135",
+    "email": "rawatyogendra689@gmail.com",
+    "phone": "+91 9084464673",
+    "linkedin": "https://www.linkedin.com/in/yogendra-singh-0100741b7/"
+  },
+  "education": [
+    {
+      "degree": "Bachelor of Technology in Computer Science",
+      "institution": "GLA University, Mathura",
+      "completion_date": "June 2025",
+      "percentage": 73
+    },
+    {
+      "degree": "Diploma in Mechanical Engineering",
+      "institution": "Government Polytechnic, Lucknow",
+      "completion_date": "June 2021",
+      "percentage": 71
+    },
+    {
+      "degree": "Intermediate",
+      "institution": "Gyan Deep Public School, SKB",
+      "completion_date": "May 2017",
+      "percentage": 74
+    },
+    {
+      "degree": "High School",
+      "institution": "Gyan Deep Public School, SKB",
+      "completion_date": "May 2015",
+      "percentage": 72
+    }
+  ],
+  "internships": [
+    {
+      "company": "OctaNet Services Pvt Ltd.",
+      "role": "Python Development Intern",
+      "duration": "Jan 2024 – Feb 2024",
+      "description": "Developed an ATM interface using Python."
+    },
+    {
+      "company": "Coursera",
+      "role": "Trainee",
+      "duration": "June 2023 – July 2023",
+      "description": "Specialization in Machine Learning."
+    },
+    {
+      "company": "Oracle",
+      "role": "Foundation Associate",
+      "duration": "June 2023 – July 2023"
+    }
+  ],
+  "projects": [
+    {
+      "title": "ATM Interface",
+      "github": "https://github.com/yogendra-gla/-OctaNet",
+      "duration": "Jan 2024 – Feb 2024",
+      "description": [
+        "Users can Withdraw, Debit, Transfer amount and view Transaction History.",
+        "Implemented using Python."
+      ]
+    },
+    {
+      "title": "Car Price Prediction",
+      "github": "https://github.com/yogendra-gla/OIBSIP",
+      "duration": "Jan 2024 – Feb 2024",
+      "description": [
+        "Predicts car prices using machine learning algorithms."
+      ]
+    },
+    {
+      "title": "Unemployment Rate in India",
+      "github": "https://github.com/yogendra-gla/OIBSIP",
+      "duration": "Jan 2024 – Feb 2024",
+      "description": [
+        "Analyzes unemployment rates using machine learning algorithms."
+      ]
+    }
+  ],
+  "skills": {
+    "technical": [
+      "Python",
+      "Machine Learning Algorithm",
+      "MS-Excel",
+      "PowerBI",
+      "GitHub",
+      "SQL",
+      "MLFlow",
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "LLM",
+      "Deep Learning",
+      "MLOps",
+      "NLP"
+    ],
+    "professional": [
+      "Leadership and Team-management",
+      "Problem Solving",
+      "Quick Learner",
+      "Smooth Communication Skills"
+    ]
+  },
+  "extracurricular": [
+    {
+      "activity": "Coordinated Youth Week",
+      "organization": "NSS, GLA",
+      "year": 2023
+    },
+    {
+      "activity": "Supervised Games Day",
+      "organization": "NSS, GLA",
+      "year": 2024
+    }
+  ],
+  "certifications": [
+    {
+      "name": "Machine Learning",
+      "organization": "Stanford (Coursera)",
+      "link": "https://www.coursera.org/account/accomplishments/specialization/certificate/JJRAMM9DTSYR"
+    },
+    {
+      "name": "Java (Basic)",
+      "organization": "HackerRank",
+      "link": "https://www.hackerrank.com/certificates/367bd44be3e1"
+    },
+    {
+      "name": "SQL (Basic)",
+      "organization": "HackerRank",
+      "link": "https://www.hackerrank.com/certificates/bce87c01b6db"
+    },
+    {
+      "name": "Oracle Certification",
+      "organization": "Oracle",
+      "link": "https://brm-certview.oracle.com/ords/certview/ecertificate?ssn=OC4339335&trackId=OCIF2023CA&key=7bc3681d94db06ba774a5f6afcef7f0244d9e400"
+    }
+  ],
+  "declaration": "I hereby declare that all the above mentioned information is true and correct to the best of my knowledge."
+}
